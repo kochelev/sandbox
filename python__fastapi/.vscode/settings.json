@@ -1,0 +1,3 @@
+{
+    "python.defaultInterpreterPath": "source ./venv/bin/activate"
+}
