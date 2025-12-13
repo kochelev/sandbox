@@ -1,6 +1,0 @@
-[
-  "tests/demo_test.py::test_failing",
-  "tests/demo_test.py::test_passing",
-  "tests/demo_test.py::test_xfailing",
-  "tests/demo_test.py::test_xpassing"
-]
